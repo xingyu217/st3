@@ -94,5 +94,5 @@ jobs:
   - checkout: self
   
 
-  - script: echo "hello2"
+  - script: echo "hello23"
     displayName: fastlane release_dev
